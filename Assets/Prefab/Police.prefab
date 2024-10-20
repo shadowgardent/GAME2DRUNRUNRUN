@@ -172,5 +172,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
-  minspeed: 70
-  maxspeed: 100
+  minspeed: 30
+  maxspeed: 50

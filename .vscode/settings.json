@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "My project2d.sln"
+    "dotnet.defaultSolution": "GAME2DRUNRUNRUN.sln"
 }

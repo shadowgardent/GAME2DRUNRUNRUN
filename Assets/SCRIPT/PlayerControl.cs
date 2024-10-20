@@ -32,6 +32,8 @@ public class PlayerControl : MonoBehaviour
         {
             animator.SetBool("isWalking", false); // หากไม่มีการกดปุ่ม ให้อนิเมชัน Idle ทำงาน
         }
+
+    
     }
     private void OnTriggerEnter2D(Collider2D target)
     {
@@ -45,6 +47,6 @@ public class PlayerControl : MonoBehaviour
     {
         SceneManager.LoadScene("SampleSceneLevel1"); // โหลดกลับไปยังซีน 1 เสมอเมื่อผู้เล่นตาย
     }
+
+    
 }
-
-
